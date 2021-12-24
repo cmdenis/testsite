@@ -22,7 +22,7 @@
 body {
     margin: 100px auto;
     width: 90%;
-    font-family: 'andale mono';
+    font-family: "Andale Mono", AndaleMono, monospace;;
     background-color: rgb(0, 0, 0);
 }
 

@@ -79,7 +79,7 @@ footer ul {
     font-size: large;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 900px) {
     .menu {
         flex-direction: column;
         display: flex;
